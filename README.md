@@ -1,2 +1,2 @@
-# design-patterns
-Estudo de padrões de projetos mais comuns
+# Design Patterns
+Repositório criado para estudo de padrões de projeto utilizando a linguagem Java.
